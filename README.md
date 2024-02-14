@@ -23,6 +23,6 @@
 
 
 # Topic
-### [-LabCode-ประวัติ](./LabCode-ประวัติ)
+### [-LabCode-ประวัติ](./LabCode-ประวัติ.md)
 ### [-LabCode01](./LabCode-01.md)
 ### [-LabCode02](./LabCode-02.md)
