@@ -20,7 +20,10 @@
 #### [ลิงค์วิดีโอสอนการติดตั้ง](https://www.youtube.com/watch?v=kEXlm24ulG8)
 ![วิดีโอไม่มีชื่อ - สร้างด้วย Clipchamp](https://github.com/KhaoklaGit/Basic-C/assets/156038066/1259efb2-b1f0-4427-a7b2-d2ec6b21196d)
 
-
+## หรือจะใช้โปรแกรมออนไลน์ได้ที่ Programiz
+![image](https://github.com/KhaoklaGit/Basic-C/assets/156038066/ff860d02-2f53-4bb5-b37e-22e9c62f2410)
+#### [ลิงค์รันโปรแกรมออนไลน์](https://www.programiz.com/c-programming/online-compiler/)
+![program - สร้างด้วย Clipchamp](https://github.com/KhaoklaGit/Basic-C/assets/156038066/3feda939-f99c-4be4-9f93-2d368e63fd3e)
 
 # Topic
 ### [-LabCode-ประวัติ](./LabCode-ประวัติ.md)
